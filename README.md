@@ -26,7 +26,7 @@ Para reduzir redundâncias no banco de dados e deixá-lo mais normalizado, decid
 Este projeto foi feito usando uma versão do Ubuntu, no qual foi necessário instalar os seguintes itens:
 
 1. Python 3.8
-2. python3.8-venv (utilizando o comando `sudo apt install python3.8-venv`
+2. python3.8-venv (utilizando o comando `sudo apt install python3.8-venv`)
 
 ### Instalação
 
