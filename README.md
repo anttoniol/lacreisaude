@@ -1,4 +1,4 @@
-# Lacrei Saúde APi
+# Lacrei Saúde API
 
 ## Arquitetura
 
