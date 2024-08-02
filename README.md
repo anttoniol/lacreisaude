@@ -31,7 +31,7 @@ Este projeto foi feito usando uma versão do Ubuntu, no qual foi necessário ins
 ### Instalação
 
 1. Na pasta raiz do projeto, criar um ambiente virtual, conforme explicado em https://docs.python.org/3/library/venv.html
-2. Para usar o ambiente virtual, executar `source <venv>/bin/activate`, onde "<venv>" é o nome que foi dado ao ambiente virtual
+2. Para usar o ambiente virtual, executar `source <venv>/bin/activate`, onde \<venv\> é o nome que foi dado ao ambiente virtual
 3. Dentro do ambiente virtual, para instalar as bibliotecas necessárias para o projeto, executar o comando `pip install -r requirements.txt`
 4. Executar os seguintes comandos:
    1. `python manage.py makemigrations`
